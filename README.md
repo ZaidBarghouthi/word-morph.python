@@ -23,6 +23,7 @@ why not?
 
     `dic.txt` is the dictionary to use. Each line should containt only one word.
 
+
 2. Morphing two words while excluding some words from the dictionary.
 
     In the example above, say we don't like the word `fets` and we would like to find a solution without it, we could exclude it from search using `-e fets` i.e.
@@ -37,7 +38,7 @@ why not?
 
 ## Algorithim
 
-The program uses the Breadth-first search (BFS) algorithim.Iit will always find the shortest path but there might be other paths of the same length.
+The program uses the Breadth-first search (BFS) algorithim. It will always find the shortest path but there might be other paths of the same length.
 
 ## Contributing
 
