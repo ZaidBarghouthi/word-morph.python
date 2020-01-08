@@ -36,7 +36,7 @@ why not?
 
     of course one can exclude several words.
 
-## Algorithim
+## Algorithm
 
 The program uses the Breadth-first search (BFS) algorithim. It will always find the shortest path but there might be other paths of the same length.
 
