@@ -5,7 +5,7 @@ Cool coding excercise.
 ## What is?
 
 A word game. For a given two words of the same length, move from the first to the second by changing one character each step. i.e. 
-`morph(foo, bar) ===> foo -> for -> far -> bar`. Each word on the chain should be a valid English word.
+`morph(foo, bar) ===> foo -> for -> far -> bar`. Each word in the chain should be a valid English word.
 
 ## Why?
 
